@@ -1,0 +1,2 @@
+
+Disallow: /pshaper_2.5/
