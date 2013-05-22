@@ -5,7 +5,7 @@
 *
 * @package		widget_utils
 * @author		Galbraith Desmond
-* @author		Gabriel Catellier
+* @author		David Gorman
 *
 * @version		1.0.2 (2012-03-10)
 */
